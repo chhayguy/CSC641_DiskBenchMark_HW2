@@ -1,0 +1,5 @@
+﻿  CSC641_HW2_DiskBenchmark.cpp
+c:\users\omfgi\desktop\csc641_diskbenchmark_hw2\csc641_hw2_diskbenchmark\csc641_hw2_diskbenchmark\csc641_hw2_diskbenchmark.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\omfgi\desktop\csc641_diskbenchmark_hw2\csc641_hw2_diskbenchmark\csc641_hw2_diskbenchmark\csc641_hw2_diskbenchmark.cpp(95): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\omfgi\desktop\csc641_diskbenchmark_hw2\csc641_hw2_diskbenchmark\csc641_hw2_diskbenchmark\csc641_hw2_diskbenchmark.cpp(98): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  CSC641_HW2_DiskBenchmark.vcxproj -> C:\Users\omfgi\Desktop\CSC641_DiskBenchMark_HW2\CSC641_HW2_DiskBenchmark\Debug\CSC641_HW2_DiskBenchmark.exe
